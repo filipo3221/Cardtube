@@ -24,4 +24,4 @@ I am a solo developer experimenting with electronic devices. I don't work on thi
 I value your privacy. Unlike big companies, I have no interest in your data. I'm just a human building cool things!
 # Copyright
 Software Distribution: This project is distributed as a pre-compiled binary (.bin). The source code (.ino) remains private property and is not available for public distribution or sale. Users are granted permission to use the software for personal, non-commercial purposes on their own devices.
-YouTube is a trademark of Google LLC. This project is an unofficial, non-commercial fan-made application and is not affiliated with or endorsed by Google.
+CardTube is a community-driven, unofficial project and is not affiliated with YouTube or Google.
