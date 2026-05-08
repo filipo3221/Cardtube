@@ -47,3 +47,4 @@ I **value** your **privacy**. Unlike big companies, I have no interest in your d
 # Copyright
 Software Distribution: This project is distributed as a pre-compiled binary (.bin). The source code (.ino) remains private property and is not available for public distribution or sale. Users are granted permission to use the software for personal, non-commercial purposes on their own devices.
 CardTube is a community-driven, unofficial project and is not affiliated with YouTube or Google.
+All trademarks, logos, and brand names are the property of their respective owners.
