@@ -24,7 +24,7 @@ This will allow you to **download** videos.
 
 # Watching offline
 - Once downloaded, switch to the [SD CARD] tab. Your videos are stored locally and can be played anytime without an internet connection!
-## **IMPORTANT:** Currently, sound (**.wav** files) is under development. Downloaded videos will play without audio for now.
+> ## **IMPORTANT:** Currently, sound (**.wav** files) is under development. Downloaded videos will play without audio for now.
 
 # About me
 I am a **solo** developer experimenting with electronic devices. I don't work on this project 24/7. I update it whenever I have free time between school and daily chores.
