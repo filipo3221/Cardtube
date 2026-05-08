@@ -1,0 +1,17 @@
+# License for CardTube
+
+Copyright (c) 2024 filipo3221
+
+## 1. Terms of Use
+Users are granted permission to use the software (distributed as a pre-compiled .bin file) for personal, non-commercial purposes on their own M5Stack devices.
+
+## 2. Restrictions
+* You may not sell, rent, or lease the software.
+* You may not decompile, reverse engineer, or attempt to extract the source code from the binary file.
+* Redistribution of the binary file must include this license and credit to the original author.
+
+## 3. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. The developer is not responsible for any damage to your device, SD card, or loss of data. Use at your own risk.
+
+## 4. Affiliation
+CardTube is an unofficial project and is not affiliated with Google or YouTube.
