@@ -21,6 +21,7 @@ This will allow you to **download** videos.
 
 3. **Wait** for the download to complete.
 **That's how you download videos and play them!**
+# How to add your own videos:
 
 # Watching offline
 - Once downloaded, switch to the [SD CARD] tab. Your videos are stored locally and can be played anytime without an internet connection!
