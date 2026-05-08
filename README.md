@@ -44,7 +44,9 @@ This will allow you to **download** videos.
 I am a **solo** developer experimenting with electronic devices. I don't work on this project 24/7. I update it whenever I have free time between school and daily chores.
 
 I **value** your **privacy**. Unlike big companies, I have no interest in your data. I'm just a human building cool things!
-# Copyright
-Software Distribution: This project is distributed as a pre-compiled binary (.bin). The source code (.ino) remains private property and is not available for public distribution or sale. Users are granted permission to use the software for personal, non-commercial purposes on their own devices.
-CardTube is a community-driven, unofficial project and is not affiliated with YouTube or Google.
-All trademarks, logos, and brand names are the property of their respective owners.
+
+# Copyright & Disclaimer
+* **CardTube** is an unofficial, community-driven project and is **not affiliated with, authorized, maintained, sponsored, or endorsed by YouTube or Google.**
+* All trademarks, logos, and brand names are the property of their respective owners.
+* This tool is intended for **educational and testing purposes only**. 
+* The developer is not responsible for any misuse of this software or for the content downloaded by the users. Please respect the copyright of content creators.
