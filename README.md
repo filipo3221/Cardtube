@@ -33,6 +33,7 @@ This will allow you to **download** videos.
 - Adding downloading with sound,
 - Adding new functions like miniatures,
 - Adding "streaming" videos without downloading them,
+- Making, so the video speeds up for the audio-video alignment
 
 
 
