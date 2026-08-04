@@ -10,7 +10,7 @@ And video proof:
 </video>
 ## Sorry for my laggy phone
 # READ ME!
-You will need an **SD** card for it to work! So grab a one yourself.
+You will need an **SD** card for it to work! So grab a one yourself. If you have a cardputer V1.1, it unfortunetly won't work. I focused on cardputer ADV, not on older versions, but I could make it work if i had testers, since I don't have those cardputers.
 
 # Preparing the cardputer
 At first, you will need a cardputer (ADV works the best for this) and an **SD** card formated to **FAT32**.
