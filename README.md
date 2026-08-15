@@ -14,7 +14,7 @@ You will need an **SD** card for it to work! So grab a one yourself. If you have
 
 # Preparing the cardputer
 At first, you will need a cardputer (ADV works the best for this) and an **SD** card formated to **FAT32**.
-Download the latest **.bin** file from my github (or use the **CardTube** version from **M5Burner** and burn it)
+Download the latest **.bin** file from my github.
 Then, you need to launch the **.bin** file from Launcher on your cardputer.
 
 # How to download videos
