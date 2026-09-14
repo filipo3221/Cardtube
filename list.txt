@@ -1,2 +1,2 @@
 Video
-Audio Video Sync Test
+AVST
